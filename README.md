@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunidhi Yadav
 - 👀 I’m interested in web development, programming, app development and also technical writing.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development and other programming projects. I am also eager to contribute to techical documentation projects.
+- I’m looking to collaborate on web development and other programming projects. I am also eager to contribute to techical documentation projects.
 
 
 <!---
